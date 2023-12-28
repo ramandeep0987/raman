@@ -10,6 +10,8 @@ module.exports = {
 
         if (image) {
           image = await helper.fileUpload(image, "profile");
+
+          // image 
         }
       }
 
