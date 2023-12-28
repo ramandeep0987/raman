@@ -12,6 +12,7 @@ module.exports = {
           image = await helper.fileUpload(image, "profile");
 
           // image 
+          // image 
         }
       }
 
